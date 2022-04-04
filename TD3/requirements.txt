@@ -1,0 +1,10 @@
+pandas
+numpy
+optuna==2.10.0
+xgboost==1.4.2
+category_encoders==2.2.2
+shapash==1.6.1
+scikit-learn==1.0.2
+matplotlib==3.5.1
+seaborn==0.11.2
+Werkzeug==2.0.1
